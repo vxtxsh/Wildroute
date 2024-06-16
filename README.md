@@ -4,7 +4,7 @@ Wildroute is aimed at promoting eco-friendly and sustainable travel, to connect 
 
 ## Team Details
 
-This project was developed by the team - Vitesh, Sharika Ciddam, Sneha and Sitikanth.
+This project was developed by the team Milky Way - Vitesh, Sharika Ciddam, Sneha and Sitikanth.
 
 ## Features
 
